@@ -1,0 +1,20 @@
+﻿MegaCastingWPF
+1.0.0.0
+
+winexe
+C#
+.cs
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingWPF\obj\Debug\net6.0-windows\
+MegaCastingWPF
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingWPF\App.xaml
+41594867410
+
+11-1215023635
+226-1196895703
+MainWindow.xaml;Views\CastingsView.xaml;Views\ClientView.xaml;Views\PartenairesView.xaml;
+
+True
+

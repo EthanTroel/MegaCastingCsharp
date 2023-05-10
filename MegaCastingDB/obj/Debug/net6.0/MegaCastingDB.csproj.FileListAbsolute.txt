@@ -1,0 +1,14 @@
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\bin\Debug\net6.0\MegaCastingDB.deps.json
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\bin\Debug\net6.0\MegaCastingDB.runtimeconfig.json
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\bin\Debug\net6.0\MegaCastingDB.dll
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\bin\Debug\net6.0\MegaCastingDB.pdb
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\MegaCastingDB.csproj.AssemblyReference.cache
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\MegaCastingDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\MegaCastingDB.AssemblyInfoInputs.cache
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\MegaCastingDB.AssemblyInfo.cs
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\MegaCastingDB.csproj.CoreCompileInputs.cache
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\MegaCastingDB.dll
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\refint\MegaCastingDB.dll
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\MegaCastingDB.pdb
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\MegaCastingDB.genruntimeconfig.cache
+C:\Users\Ethan Troel\Documents\Code\Megacasting\WPF\MegaCastingWPF\MegaCastingWPF\MegaCastingDB\obj\Debug\net6.0\ref\MegaCastingDB.dll
